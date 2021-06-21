@@ -11,7 +11,7 @@ There are a lot of fun in security:)
 ### 指令顯示測試
 
 ```markdown
--   =strings=
+-   ==strings==
 -   zsteg
 -   gdb
     -   x/w memory position
@@ -38,6 +38,8 @@ There are a lot of fun in security:)
 -   SSTI,CSRF
 -   zsteg implement
 -   FHE
+-   閃電貸(~~根本就是叫我去玩貨幣~~)
+-   智慧簽章
 -   AIS3 2021 write up
 -   貓味(影片尚未看完 QAQ)
 -   wireshark advanced
