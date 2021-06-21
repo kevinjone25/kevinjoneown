@@ -23,3 +23,26 @@ There are a lot of fun in security:)
 
 -   [Crypto](https://cryptohack.org/)
 -   [Web](https://github.com/w181496/Web-CTF-Cheatsheet#ssrf)
+
+### 接下來要補的坑
+
+-   t-cache
+-   ROP chain implement
+-   python pickle vulnerality
+-   OSCP penetration test
+-   CCNA
+-   arp-spoofing 實作
+-   gef
+-   SSTI,CSRF
+-   zsteg implement
+-   AIS3 2021 write up
+-   貓味(影片尚未看完 QAQ)
+-   wireshark advanced
+-   react.js
+
+-我的肝-
+
+### 未來行事曆(老了真的怕忘記)
+
+-   Hitcon2021
+-   R2SCTF
