@@ -1,8 +1,10 @@
 ## Welcome to kevonjone25 Pages
 
-You can use the [editor on GitHub](https://github.com/kevinjone25/kevinjoneown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+來自台灣高雄一條有夢想的鹹魚,目前就讀於中央大學資管系(莫名其妙修了一堆資工的課),已經在資安的路上前進,無法回頭了,只不過路上有好多坑要填 QQ 到處都有大佬在推坑好多看起來好棒的東西
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Kevin , I live in Kaohsiung and I study in National university MIS(but I study more course in CS XD).I want to become a security analyst, but before success, there are a lot of knowledge that I need to learn.
+
+There are a lot of fun in security:)
 
 ### Markdown
 
