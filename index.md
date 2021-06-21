@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to kevonjone25 Pages
 
 You can use the [editor on GitHub](https://github.com/kevinjone25/kevinjoneown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
