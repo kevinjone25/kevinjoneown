@@ -19,7 +19,7 @@ There are a lot of fun in security:)
 -   vmmap
 ```
 
-### 一些好用的網站
+### 好用的網站
 
 -   [Crypto](https://cryptohack.org/)
 -   [Web](https://github.com/w181496/Web-CTF-Cheatsheet#ssrf)
@@ -34,15 +34,25 @@ There are a lot of fun in security:)
 -   CCNA
 -   arp-spoofing 實作
 -   gef
+-   AES env
 -   SSTI,CSRF
 -   zsteg implement
+-   FHE
 -   AIS3 2021 write up
 -   貓味(影片尚未看完 QAQ)
 -   wireshark advanced
 -   react.js
 ```
 
--我的肝-
+--貪多嚼不爛--
+--我的肝--
+
+### 暑假補的文章
+
+```markdown
+-   [如何繞過 2FA 登入](https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/?fbclid=IwAR0wxK1GG3PpQJ907nHVs7Sqrasze0-3nxHhvpP9nKxcziexgLnp9iUSlsQ)
+-   [Google FHE](https://github.com/google/fully-homomorphic-encryption)
+```
 
 ### 未來行事曆(老了真的怕忘記)
 
