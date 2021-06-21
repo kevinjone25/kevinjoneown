@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 permalink: /:title/
 title: About 焚香
+baseurl: /blog
+highlight_theme: tomorrow-night
