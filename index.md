@@ -6,6 +6,8 @@ Hi, my name is Kevin , I live in Kaohsiung and I study in National university MI
 
 There are a lot of fun in security:)
 
+\NtCfU/
+
 ### 記錄些容易忘掉的指令
 
 ```markdown
@@ -19,4 +21,4 @@ There are a lot of fun in security:)
 
 ### 一些好用的網站
 
--
+-   CRYPTO https://cryptohack.org/
