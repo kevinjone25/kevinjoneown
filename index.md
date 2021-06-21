@@ -8,7 +8,7 @@ There are a lot of fun in security:)
 
 \NtCfU/
 
-### 記錄些容易忘掉的指令
+### 指令顯示測試
 
 ```markdown
 -   strings
@@ -26,6 +26,7 @@ There are a lot of fun in security:)
 
 ### 接下來要補的坑
 
+```markdown
 -   t-cache
 -   ROP chain implement
 -   python pickle vulnerality
@@ -39,6 +40,7 @@ There are a lot of fun in security:)
 -   貓味(影片尚未看完 QAQ)
 -   wireshark advanced
 -   react.js
+```
 
 -我的肝-
 
