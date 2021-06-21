@@ -11,12 +11,12 @@ There are a lot of fun in security:)
 ### 指令顯示測試
 
 ```markdown
--   strings
+-   =strings=
 -   zsteg
 -   gdb
     -   x/w memory position
+    -   vmmap
 -   ps -aux
--   vmmap
 ```
 
 ### 好用的網站
@@ -56,3 +56,9 @@ There are a lot of fun in security:)
 
 -   Hitcon2021
 -   R2SCTF
+
+### BRUH
+
+```py
+eval()
+```
