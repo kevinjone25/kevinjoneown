@@ -21,4 +21,5 @@ There are a lot of fun in security:)
 
 ### 一些好用的網站
 
--   CRYPTO https://cryptohack.org/
+-   [Crypto](https://cryptohack.org/)
+-   [Web](https://github.com/w181496/Web-CTF-Cheatsheet#ssrf)
