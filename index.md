@@ -44,8 +44,7 @@ There are a lot of fun in security:)
 -   react.js
 ```
 
---貪多嚼不爛--
---我的肝--
+~~貪多嚼不爛~~
 
 ### 暑假補的文章
 
