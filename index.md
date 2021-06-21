@@ -9,12 +9,10 @@ There are a lot of fun in security:)
 ### 記錄些容易忘掉的指令
 
 ```markdown
-- strings 
-- zsteg
-- gdb
-  - x/w memory position
-- ps -aux
-- vmmap
-
+-   strings
+-   zsteg
+-   gdb
+    -   x/w memory position
+-   ps -aux
+-   vmmap
 ```
-
