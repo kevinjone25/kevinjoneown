@@ -31,19 +31,11 @@ There are a lot of fun in security:)
 -   ROP chain implement
 -   python pickle vulnerality
 -   OSCP penetration test
--   CCNA
 -   arp-spoofing 實作
--   gef
--   AES env
--   SSTI,CSRF
--   zsteg implement
 -   FHE
 -   Flash loans(根本就是叫我去玩貨幣)
 -   智慧簽章
--   AIS3 2021 write up
 -   貓味(影片尚未看完 QAQ)
--   wireshark advanced
--   react.js
 ```
 
 ~~貪多嚼不爛~~
@@ -56,8 +48,10 @@ There are a lot of fun in security:)
 
 ### 未來行事曆(老了真的怕忘記)
 
--   Hitcon2021
--   R2SCTF
+-   ~~Hitcon2021~~
+-   ~~R2SCTF~~
+-   FUZZING TEST(把LLVM跑完 哭阿)
+-   Windows UAC project
 
 ### BRUH
 
