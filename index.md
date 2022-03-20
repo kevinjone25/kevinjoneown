@@ -48,8 +48,8 @@ There are a lot of fun in security:)
 
 ### 未來行事曆(老了真的怕忘記)
 
--   ~~Hitcon2021~~
--   ~~R2SCTF~~
+-   Hitcon2022
+-   PWN
 -   FUZZING TEST(把LLVM跑完 哭阿)
 -   Windows UAC project
 
